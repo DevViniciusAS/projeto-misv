@@ -95,27 +95,31 @@ html p a:hover {
 }
 
 #slide-bannerh1-1 {
-	color: white;
+	background-color: rgba(255, 255, 255, 0.555);
 }
 
 #slide-bannerP-1 {
-	color: white;
+	background-color: rgba(255, 255, 255, 0.555);
 }
 
 #slide-bannerh1-2 {
-	color: #fa4b0b;
+	background-color: rgba(255, 255, 255, 0.555);
+	/*color: #1a4eff;*/
 }
 
 #slide-bannerP-2 {
-	color: #fa4b0b;	
+	background-color: rgba(255, 255, 255, 0.555);
+	/*color: #1a4eff;*/
 }
 
 #slide-bannerh1-3 {
-	color: #1a4eff;
+	background-color: rgba(255, 255, 255, 0.555);
+	/*color: #fa4b0b;*/
 }
 
 #slide-bannerP-3 {
-	color: #1a4eff;
+	background-color: rgba(255, 255, 255, 0.555);
+	/*color: #fa4b0b;*/
 }
 
 /*
@@ -12766,6 +12770,7 @@ html.tablet .ui-to-top {
 /*
 * @subsection  RD Navbar Static
 */
+
 .rd-navbar-static {
 	display: block;
 }
